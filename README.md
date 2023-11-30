@@ -4,6 +4,10 @@
 </div>
 
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<div align="center">
+  <img height="210" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif"  />
+</div>
+
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tharulan&label=Profile%20views&color=0e75b6&style=flat" alt="Tharulan" /> </p>
