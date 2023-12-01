@@ -11,7 +11,6 @@
 <h3 align="left">🛠 Languages & Tools</h3>
 
 ###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
