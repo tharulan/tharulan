@@ -93,7 +93,7 @@
 <a href="https://linkedin.com/in/vimalathasantharulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharulan" height="27" width="35" /></a>   
 <a href="https://instagram.com/tharulan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharulan" height="27" width="35" /></a>    
 <a href="https://twitter.com/tharulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharulan" height="27" width="35" /></a>
-alt="tharulan" height="27" width="35" /></a>
+
 <a href="mailto:tharulantharu@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png"
 alt="tharulan" height="27" width="35" /></a>
 
