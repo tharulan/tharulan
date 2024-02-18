@@ -10,7 +10,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tharulan&label=Profile%20views&color=0e75b6&style=flat" alt="Tharulan" /> </p>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <div align="center">
-  <img height="250" src="https://private-user-images.githubusercontent.com/110823023/294691904-877883b8-3178-48ad-8e6f-895b4853b6c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1NTAwNjcsIm5iZiI6MTcwNDU0OTc2NywicGF0aCI6Ii8xMTA4MjMwMjMvMjk0NjkxOTA0LTg3Nzg4M2I4LTMxNzgtNDhhZC04ZTZmLTg5NWI0ODUzYjZjMy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNlQxNDAyNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NmViZDdhYzg1MzA2Nzk1MTkyNGFmZGNiZTcyMTg2MmQ3ZDI3Yzc2MWQ0YzFhZjYwMTlmOTczNmUyMzE5MTU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qEZ6INjlNo0rJ8NKELmenkV_93Qgob6hUfkU0cZ8IsE"  />
+  <img height="250" src=""  />
 </div>
 
 <h3 align="left">🛠 Languages & Tools</h3>
