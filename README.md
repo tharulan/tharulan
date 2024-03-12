@@ -10,7 +10,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tharulan&label=Profile%20views&color=0e75b6&style=flat" alt="Tharulan" /> </p>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+  <img height="250" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
 </div>
 
 <h3 align="left">🛠 Languages & Tools</h3>
