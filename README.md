@@ -8,7 +8,7 @@
 <div align="right" dir="auto">
 </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tharulan&label=Profile%20views&color=0e75b6&style=flat" alt="Tharulan" /> </p>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />A passionate fullstack developer from Sri Lanka <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />A passionate fullstack developer from Sri Lanka <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" /></h3>
 <div align="center">
   <img height="250" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
 </div>
